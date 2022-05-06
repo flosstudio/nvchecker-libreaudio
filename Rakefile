@@ -22,3 +22,15 @@ task :check_source do
     exit -1
   end
 end
+
+task :lint do
+  db = TOML.load F
+  db.each do |k, v|
+    %w(github gitlab).each { v['source'] = _1 if (v[_1] || !v['source']) }
+    if (v['github'] || v['gitlab']) && (!v.has_key? 'unver')
+      v['use_max_tag'] = true if (!v.has_key? 'use_max_tag')
+      v['prefix'] = 'v' if (!v.has_key? 'prefix')
+    end
+  end.sort.to_h
+  puts TOML::Generator.new(db).body
+end
