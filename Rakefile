@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 # SPDX-License-Identifier: CC0-1.0
 
 require 'toml'
 
 N = 'libreaudio.toml'
-F = File.read N
+F = File.read(N).freeze
 
 task default: :check
 
@@ -19,17 +21,17 @@ task :check_source do
   s = F.scan(/^source/).length
   if e != s
     puts "ERROR: #{e} entries != #{s} sources"
-    exit -1
+    exit(-1)
   end
 end
 
 task :lint do
   db = TOML.load F
-  db.each do |k, v|
-    %w(github gitlab).each { v['source'] = _1 if (v[_1] || !v['source']) }
-    if (v['github'] || v['gitlab']) && (!v.has_key? 'unver')
-      v['use_max_tag'] = true if (!v.has_key? 'use_max_tag')
-      v['prefix'] = 'v' if (!v.has_key? 'prefix')
+  db.each do |_k, v|
+    %w[github gitlab].each { v['source'] = _1 if v[_1] || !v.key?('source') }
+    if (v['github'] || v['gitlab']) && (!v.key? 'unver')
+      v['use_max_tag'] = true unless v.key? 'use_max_tag'
+      v['prefix'] = 'v' unless v.key? 'prefix'
     end
   end.sort.to_h
   puts TOML::Generator.new(db).body
