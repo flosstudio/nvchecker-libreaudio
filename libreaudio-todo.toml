@@ -1,0 +1,318 @@
+# TODO: Set correct version format, e.g. 1_2_3
+
+[Buzztrax]
+github = "Buzztrax/buzztrax"
+prefix = "RELEASE_"
+
+[Jamulus]
+github = "jamulussoftware/jamulus"
+prefix = "r"
+source = "github"
+
+[audiogridder]
+github = "apohl79/audiogridder"
+prefix = "release_"
+
+[drumkv1]
+github = "rncbc/drumkv1"
+prefix = "drumkv1_"
+
+[midish]
+github = "ratchov/midish"
+prefix = "release_"
+
+[munt]
+github = "munt/munt"
+prefix = "munt_"
+
+[padthv1]
+github = "rncbc/padthv1"
+prefix = "padthv1_"
+
+[qjackctl]
+github = "rncbc/qjackctl"
+prefix = "qjackctl_"
+
+[qmidinet]
+github = "rncbc/qmidinet"
+prefix = "qmidinet_"
+
+[qsynth]
+github = "rncbc/qsynth"
+prefix = "qsynth_"
+
+[qtractor]
+github = "rncbc/qtractor"
+prefix = "qtractor_"
+
+[samplv1]
+github = "rncbc/samplv1"
+prefix = "samplv1_"
+
+[synthv1]
+github = "rncbc/synthv1"
+prefix = "synthv1_"
+
+[tunefish]
+github = "paynebc/tunefish"
+prefix = "RELEASE_"
+
+# TODO: Write parsers
+
+## sourceforge.net
+
+[Canorus]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/canorus/files/"
+
+[EQ10Q]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/eq10q/files/"
+
+[Rosegarden]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/rosegarden/files/rosegarden/"
+
+[TuxGuitar]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/tuxguitar/files/TuxGuitar/"
+
+[aj-snapshot]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/aj-snapshot/files/"
+
+[drumstick]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/drumstick/files/"
+
+[kmetronome]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/kmetronome/files/"
+
+[kmidimon]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/kmidimon/files/"
+
+[libsmf]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/libsmf/files/libsmf/"
+
+[njconnect]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/njconnect/files/"
+
+[nootka]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/nootka/files/"
+
+[nyquist]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/nyquist/files/nyquist/"
+
+[psindustrializer]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/industrializer/files/"
+
+[rakarrack]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/rakarrack/files/rakarrack/"
+
+[triceratops]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/triceratops/files/"
+
+[vmpk]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/vmpk/files/vmpk/"
+
+## kokkinizita.linuxaudio.org
+
+[aeolus]
+regex = ""
+source = "regex"
+url = "https://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html"
+
+[zita-alsa-pcmi]
+regex = ""
+source = "regex"
+url = "https://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html"
+
+[zita-resampler]
+regex = ""
+source = "regex"
+url = "https://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html"
+
+## open-music-kontrollers.ch
+
+[MidiMatrix]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/midi_matrix/"
+
+[Sherlock]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/sherlock/"
+
+[Synthpod]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/synthpod/"
+
+[VM]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/vm/"
+
+[lv2lint]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/lv2lint/"
+
+[moony]
+regex = ""
+source = "regex"
+url = "https://open-music-kontrollers.ch/lv2/moony/"
+
+## drobilla.net
+
+[Patchage]
+regex = ""
+source = "regex"
+url = "https://drobilla.net/category/patchage/"
+
+[lilv]
+regex = ""
+source = "regex"
+url = "https://drobilla.net/category/lilv/"
+
+[serd]
+regex = ""
+source = "regex"
+url = "http://drobilla.net/category/serd/"
+
+[sord]
+regex = ""
+source = "regex"
+url = "http://drobilla.net/category/sord/"
+
+[sratom]
+regex = ""
+source = "regex"
+url = "http://drobilla.net/category/sratom/"
+
+## linuxsampler.org
+
+[gigedit]
+regex = ""
+source = "regex"
+url = "https://download.linuxsampler.org/packages/"
+
+[libgig]
+regex = ""
+source = "regex"
+url = "https://download.linuxsampler.org/packages/"
+
+## Other
+
+[Denemo]
+regex = ""
+source = "regex"
+url = "http://denemo.org/downloads-page/"
+
+[DrumGizmo]
+regex = ""
+source = "regex"
+url = "https://drumgizmo.org/wiki/doku.php?id=getting_drumgizmo"
+
+[Ecasound]
+regex= = ""
+source = "regex"
+url = "http://nosignal.fi/ecasound/download.php"
+
+[IEMPluginSuite]
+gitlab = "https://git.iem.at/audioplugins/IEMPluginSuite"
+source = "gitlab"
+
+[JSyn]
+regex = ""
+source = "regex"
+url = "http://www.softsynth.com/jsyn/developers/download.php"
+
+[Tony]
+regex = ""
+source = "regex"
+url = "https://code.soundsoftware.ac.uk/projects/tony/files"
+
+[Tutka]
+regex = ""
+source = "regex"
+url = "https://download.savannah.gnu.org/releases/tutka/"
+
+[agordejo]
+regex = ""
+source = "regex"
+url = "https://www.laborejo.org/downloads/"
+
+[ccaudio]
+gdaw = "ccaudio2"
+regex = ""
+source = "regex"
+url = "https://ftp.gnu.org/gnu/ccaudio/"
+
+[din]
+regex = ""
+source = "regex"
+url = "https://dinisnoise.org/?what=download"
+
+[invada-studio]
+gdaw = "lv2-invada-plugins"
+regex = ""
+source = "regex"
+url = "https://launchpad.net/invada-studio/"
+
+[jack_capture]
+regex = ""
+source = "regex"
+url = "https://ccrma.stanford.edu/~kjetil/src/"
+
+[kluppe]
+regex = ""
+source = "regex"
+url = "http://kluppe.klingt.org/"
+
+[mma]
+regex = ""
+source = "regex"
+url = "https://www.mellowood.ca/mma/downloads.html"
+
+[rubberband]
+regex = ""
+source = "regex"
+url = "https://breakfastquay.com/files/releases/"
+
+[snd]
+regex = ""
+source = "regex"
+url = "https://ccrma.stanford.edu/software/snd/"
+
+[zrythm]
+regex = ""
+source = "regex"
+url = "https://www.zrythm.org/releases/"
