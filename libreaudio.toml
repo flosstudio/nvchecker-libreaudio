@@ -1,0 +1,1597 @@
+[6pm]
+github = "michelvergnaud/6PM"
+source = "github"
+unver = true
+
+[ADLPlug]
+github = "jpcima/ADLplug"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Aether]
+github = "Dougal-s/Aether"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[AnalogTapeModel]
+gdaw = "CHOWTapeModel"
+github = "jatinchowdhury18/AnalogTapeModel"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BAngr]
+github = "sjaehn/BAngr"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BChoppr]
+github = "sjaehn/BChoppr"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BJumblr]
+github = "sjaehn/BJumblr"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BOops]
+github = "sjaehn/BOops"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BSEQuencer]
+github = "sjaehn/BSEQuencer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BSchaffl]
+github = "sjaehn/BSchaffl"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BShapr]
+github = "sjaehn/BShapr"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BSlizr]
+github = "sjaehn/BSlizr"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BYOD]
+github = "Chowdhury-DSP/BYOD"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Bad-Circuit-Modelling]
+github = "jatinchowdhury18/Bad-Circuit-Modelling"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Bass21]
+github = "jpcima/Bass21"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BespokeSynth]
+github = "BespokeSynth/BespokeSynth"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[BiquadLimiter]
+github = "utokusa/BiquadLimiter"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Borderlands]
+github = "Lyptik/Borderlands"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[CHOW]
+github = "Chowdhury-DSP/CHOW"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[CSound]
+github = "csound/csound"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Cabbage]
+github = "rorywalsh/cabbage"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Cadence]
+github = "falkTX/Cadence"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Camomile]
+github = "pierreguillot/Camomile"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Carla]
+github = "falkTX/Carla"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Carve-Distortion]
+github = "jd-13/Carve-Distortion"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ChowKick]
+github = "Chowdhury-DSP/ChowKick"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ChowMatrix]
+github = "Chowdhury-DSP/ChowMatrix"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ChowPhaser]
+github = "jatinchowdhury18/ChowPhaser"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ChucK]
+github = "ccrma/chuck"
+prefix = "chuck"
+source = "github"
+use_max_tag = true
+
+[CollisionDrive]
+gdaw = "lv2-CollisionDrive"
+github = "brummer10/CollisionDrive"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ComplexNonlinearities]
+github = "jatinchowdhury18/ComplexNonlinearities"
+source = "github"
+unver = true
+
+[CsoundQt]
+github = "CsoundQt/CsoundQt"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Cursynth]
+github = "mtytel/cursynth"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[DISTRHO-Ports]
+github = "DISTRHO/DISTRHO-Ports"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[DPF-Plugins]
+github = "DISTRHO/DPF-Plugins"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[DelayArchitect]
+github = "jpcima/DelayArchitect"
+source = "github"
+unver = true
+
+[EarthEcho]
+github = "JimmyKenMerchant/EarthEcho"
+source = "github"
+unver = true
+
+[Element]
+github = "kushview/Element"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[FatFrog-lv2]
+gdaw = "lv2-FatFrog"
+github = "brummer10/FatFrog.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Fire]
+github = "jerryuhoo/Fire"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Frequalizer]
+github = "ffAudio/Frequalizer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Frontieres]
+github = "linuxmao-org/Frontieres"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Geonkick]
+gitlab = "iurie-sw/geonkick"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[GrandOrgue]
+github = "GrandOrgue/grandorgue"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[GxPlugins-lv2]
+gdaw = "lv2-gxplugins"
+github = "brummer10/GxPlugins.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[HarmonicExciter]
+gdaw = "lv2-HarmonicExciter"
+github = "brummer10/HarmonicExciter"
+source = "github"
+unver = true
+
+[IanniX]
+github = "buzzinglight/IanniX"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[JUCE]
+github = "juce-framework/JUCE"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[JammerNetz]
+github = "christofmuc/JammerNetz"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Kapitonov-Plugins-Pack]
+github = "olegkapitonov/Kapitonov-Plugins-Pack"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Kickmess]
+gdaw = "Megamess"
+github = "WeirdConstructor/Kickmess"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[KlonCentaur]
+gdaw = "ChowCentaur"
+github = "jatinchowdhury18/KlonCentaur"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[KnobKraft-orm]
+github = "christofmuc/KnobKraft-orm"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Kwave]
+gitlab = "https://invent.kde.org/multimedia/kwave"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[LibreArp]
+gitlab = "LibreArp/LibreArp"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[LittleFly-lv2]
+gdaw = "lv2-LittleFly"
+github = "brummer10/LittleFly.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[MDA-lv2]
+gdaw = "lv2-mda"
+regex = ""
+source = "regex"
+url = "https://drobilla.net/category/mdalv2/"
+
+[MIDIVisualizer]
+github = "kosua20/MIDIVisualizer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[MONSTR-Stereo-Imaging]
+gdaw = "MONSTR"
+github = "jd-13/MONSTR-Stereo-Imaging"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Magical8bitPlug2]
+github = "yokemura/Magical8bitPlug2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Mamba]
+github = "brummer10/Mamba"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[MelMatchEQ-lv2]
+github = "brummer10/MelMatchEQ.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Melissa]
+github = "mosynthkey/Melissa"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Melodrumatic]
+github = "usdivad/Melodrumatic"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[MetalTone]
+gdaw = "lv2-MetalTone"
+github = "brummer10/MetalTone"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Mixxx]
+github = "mixxxdj/mixxx"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[MusE]
+github = "muse-sequencer/muse"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[MuseScore]
+github = "musescore/MuseScore"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Mverb2020]
+github = "figbug/mverb"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[NEL-19]
+github = "Mrugalla/NEL-19"
+source = "github"
+unver = true
+
+[OB-Xd]
+github = "reales/OB-Xd"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Octasine]
+github = "greatest-ape/OctaSine"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[OpenLP]
+gitlab = "openlp/openlp"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[PAPU]
+github = "FigBug/PAPU"
+source = "github"
+unver = true
+
+[PLEBTracker]
+github = "danfrz/PLEBTracker"
+source = "github"
+unver = true
+
+[PLEBtracker]
+github = "danfrz/PLEBTracker"
+source = "github"
+unver = true
+
+[PaulStretchPlugin]
+bitbucket = "xenakios/paulstretchplugin"
+prefix = ""
+source = "bitbucket"
+
+[PaulXStretch]
+github = "essej/paulxstretch"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[PeakEater]
+github = "vvvar/PeakEater"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[PianoBooster]
+github = "pianobooster/PianoBooster"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Pigiron]
+github = "plewto/Pigiron"
+source = "github"
+unver = true
+
+[PlugData]
+github = "timothyschoen/PlugData"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[PureData]
+github = "pure-data/pure-data"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[RP2A03]
+github = "FigBug/RP2A03"
+source = "github"
+unver = true
+
+[RaySession]
+github = "Houston4444/RaySession"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ReJJ]
+gdaw = "jsfx-ReJJ"
+github = "Justin-Johnson/ReJJ"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ReceiveMIDI]
+github = "gbevin/ReceiveMIDI"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Richter-Tremolo]
+github = "jd-13/Richter-Tremolo"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[RoomReverb]
+github = "cvde/RoomReverb"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[RtAudio]
+github = "thestk/rtaudio"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[RtMidi]
+github = "thestk/rtmidi"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Rumor]
+github = "brummer10/Rumor"
+source = "github"
+unver = true
+
+[SID]
+github = "FigBug/SID"
+source = "github"
+unver = true
+
+[SN76489]
+github = "FigBug/SN76489"
+source = "github"
+unver = true
+
+[SampleHive]
+gitlab = "samplehive/sample-hive"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[SendMIDI]
+github = "gbevin/SendMIDI"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[SmartGuitarAmp]
+github = "GuitarML/SmartGuitarAmp"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Songbird-Formant-Filter]
+gdaw = "Songbird"
+github = "jd-13/Songbird-Formant-Filter"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[SuperCollider]
+github = "supercollider/supercollider"
+prefix = "Version-"
+source = "github"
+use_max_tag = true
+
+[SuperVirtualKeyboard]
+github = "vsicurella/SuperVirtualKeyboard"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[Surge-xt]
+github = "surge-synthesizer/surge"
+prefix = "release_xt_"
+source = "github"
+use_max_tag = true
+
+[SwankyAmp]
+github = "resonantdsp/SwankyAmp"
+source = "github"
+unver = true
+
+[TalentedHack]
+gdaw = "lv2-talentedhack"
+github = "jeremysalwen/TalentedHack"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[Temperament]
+github = "timcsy/Temperament"
+source = "github"
+unver = true
+
+[Twonker]
+gitlab = "jclocke/twonker"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[Voc]
+github = "FigBug/Voc"
+source = "github"
+unver = true
+
+[Wavetable]
+github = "FigBug/Wavetable"
+source = "github"
+unver = true
+
+[Wireplumber]
+gitlab = "https://gitlab.freedesktop.org/pipewire/wireplumber"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[abNinjam]
+github = "antanasbruzas/abNinjam"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[abcmidi]
+github = "sshlien/abcmidi"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[airwindows-lv2]
+gdaw = "lv2-airwindows"
+github = "hannesbraun/airwindows-lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[alo]
+gdaw = "lv2-alo"
+github = "devcurmudgeon/alo"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[alsa-scarlett-gui]
+github = "geoffreybennett/alsa-scarlett-gui"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[amsynth]
+github = "amsynth/amsynth"
+prefix = "release-"
+source = "github"
+use_max_tag = true
+
+[ardour]
+github = "ardour/ardour"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[atm-cli]
+gdaw = "allthemusic"
+github = "allthemusicllc/atm-cli"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[audacity]
+github = "audacity/audacity"
+prefix = "Audacity-"
+source = "github"
+use_max_tag = true
+
+[avldrums-lv2]
+gdaw = "lv2-avldrums"
+github = "x42/avldrums.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[b-step]
+github = "surge-synthesizer/b-step"
+source = "github"
+unver = true
+
+[bambootracker]
+github = "BambooTracker/BambooTracker"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[bipscript]
+source = "gitlab"
+url = "https://gitlab.domainepublic.net/bipscript/bipscript"
+
+[bitKlavier]
+github = "Princeton-CDH/bitKlavier"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[bitcrusher-lv2]
+gdaw = "lv2-bitcrusher"
+github = "krig/bitcrusher.lv2"
+source = "github"
+unver = true
+
+[blop-lv2]
+regex = ""
+source = "regex"
+url = "http://drobilla.net/software/blop-lv2.html"
+
+[broscoli]
+github = "holoplot/broscoli"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[bs2b-lv2]
+gdaw = "lv2-bs2b"
+github = "nilninull/bs2b-lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[calf]
+github = "calf-studio-gear/calf"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[caps-lv2]
+gdaw = "lv2-caps"
+github = "moddevices/caps-lv2"
+source = "github"
+unver = true
+
+[dexed]
+github = "asb2m10/dexed"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[dm-GrainDelay]
+github = "davemollen/dm-GrainDelay"
+source = "github"
+unver = true
+
+[dragonfly-reverb]
+github = "michaelwillis/dragonfly-reverb"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[drops]
+github = "clearly-broken-software/drops"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[easyeffects]
+github = "wwmm/easyeffects"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[emutrix]
+github = "linuxmao-org/emutrix"
+source = "github"
+unver = true
+
+[faust]
+github = "grame-cncm/faust"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[ffado]
+prefix = ""
+source = "regex"
+url = "http://www.ffado.org/files/"
+
+[fluidsynth]
+github = "FluidSynth/fluidsynth"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[fogpad]
+gdaw = "vst3-fogpad"
+github = "igorski/fogpad"
+source = "github"
+unver = true
+
+[foo-yc20]
+github = "sampov2/foo-yc20"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[freewheeling]
+github = "free-wheeling/freewheeling"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[frescobaldi]
+github = "frescobaldi/frescobaldi"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[furnace]
+github = "tildearrow/furnace"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[giada]
+github = "monocasual/giada"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[gsequencer]
+github = "gsequencer/gsequencer"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[guitarix]
+github = "brummer10/guitarix"
+prefix = "V"
+source = "github"
+use_max_tag = true
+
+[harmonySEQ]
+github = "rafalcieslak/harmonySEQ"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[harvid]
+github = "x42/harvid"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[helio-workstation]
+github = "helio-fm/helio-workstation"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[helm]
+github = "mtytel/helm"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[helvum]
+gitlab = "https://gitlab.freedesktop.org/pipewire/helvum"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[hydrogen]
+github = "hydrogen-music/hydrogen"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[infamousPlugins]
+gdaw = "lv2-infamousPlugins"
+github = "ssj71/infamousPlugins"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ir-lv2]
+gdaw = "lv2-ir-1.2"
+github = "tomszilagyi/ir.lv2"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[jack]
+github = "jackaudio/jack2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[jack-smf-utils]
+github = "zynthian/jack-smf-utils"
+source = "github"
+unver = true
+
+[jacktrip]
+github = "jacktrip/jacktrip"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[jalv]
+gitlab = "drobilla/jalv"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[joy2jack]
+github = "hauspie/joy2jack"
+source = "github"
+unver = true
+
+[juicysfplugin]
+github = "Birch-san/juicysfplugin"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[klick]
+github = "dsacre/klick"
+source = "github"
+unver = true
+
+[klystrack]
+github = "kometbomb/klystrack"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[konfyt]
+github = "noedigcode/konfyt"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[libfreeaptx]
+github = "iamthehorker/libfreeaptx"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[libkeyfinder]
+github = "mixxxdj/libkeyfinder"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[liblsp-dsp]
+github = "sadko4u/lsp-dsp-lib"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[libltc]
+github = "x42/libltc"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[libresample]
+github = "minorninth/libresample"
+source = "github"
+unver = true
+
+[libsbsms]
+github = "claytonotey/libsbsms"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[libsoundio]
+github = "andrewrk/libsoundio"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[lilypond]
+github = "lilypond/lilypond"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lingot]
+github = "ibancg/lingot"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[linux-show-player]
+github = "FrancescoCeruti/linux-show-player"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lmms]
+github = "LMMS/lmms"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lpc-lv2]
+gdaw = "lv2-lpc"
+github = "knector01/lpc.lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lsp-common-lib]
+gdaw = "liblsp-common"
+github = "sadko4u/lsp-common-lib"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[lsp-plugins]
+github = "sadko4u/lsp-plugins"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[lv2-Aether]
+github = "Dougal-s/Aether"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lv2-Uhhyou-Plugins]
+github = "ryukau/LV2Plugins"
+source = "github"
+unver = true
+
+[lv2-noise-repellent]
+github = "lucianodato/noise-repellent"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lv2-swh]
+github = "swh/lv2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[lvtk]
+github = "lvtk/lvtk"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[marsyas]
+github = "marsyas/marsyas"
+prefix = "version-"
+source = "github"
+use_max_tag = true
+
+[mididings]
+github = "noedigcode/mididings"
+source = "github"
+unver = true
+
+[midieditor]
+github = "markusschwenk/midieditor"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[midimonster]
+github = "cbdevnet/midimonster"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[midisheetmusic]
+github = "wang1ang/midisheetmusic"
+source = "github"
+unver = true
+
+[milkytracker]
+github = "milkytracker/MilkyTracker"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[minaton]
+gdaw = "lv2-minaton"
+github = "thunderox/Minaton"
+source = "github"
+unver = true
+
+[minicomputer]
+github = "linuxmao-org/Minicomputer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[mod-arpeggiator-lv2]
+gdaw = "lv2-mod-arpeggiator"
+github = "moddevices/mod-arpeggiator-lv2"
+source = "github"
+unver = true
+
+[monique-monosynth]
+github = "surge-synthesizer/monique-monosynth"
+source = "github"
+unver = true
+
+[mx44]
+github = "linuxmao-org/Mx44"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[new-session-manager]
+github = "jackaudio/new-session-manager"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ninjas2]
+github = "clearly-broken-software/ninjas2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[noise-suppression-for-voice]
+gdaw = "lv2-rnnoise"
+github = "werman/noise-suppression-for-voice"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[odin2]
+github = "TheWaveWarden/odin2"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ola]
+github = "OpenLightingProject/ola"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[openAV-ArtyFX]
+gdaw = "lv2-artyfx-plugins"
+github = "openAVproductions/openAV-ArtyFX"
+prefix = "release-"
+source = "github"
+use_max_tag = true
+
+[openAV-Luppp]
+github = "openAVproductions/openAV-Luppp"
+prefix = "release-"
+source = "github"
+use_max_tag = true
+
+[openAV-Sorcer]
+gdaw = "lv2-sorcer"
+github = "openAVproductions/openAV-Sorcer"
+prefix = "release-"
+source = "github"
+use_max_tag = true
+
+[ossia-score]
+github = "ossia/score"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[osxmidi]
+github = "osxmidi/SFZero-X"
+source = "github"
+unver = true
+
+[pd2jack]
+github = "GModal/pd2jack"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[phasex]
+github = "williamweston/phasex"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[pipecontrol]
+github = "portaloffreedom/pipecontrol"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[pipewire]
+gitlab = "https://gitlab.freedesktop.org/pipewire/pipewire"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[pipewire-media-session]
+gitlab = "https://gitlab.freedesktop.org/pipewire/media-session"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[pluginval]
+github = "Tracktion/pluginval"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[polyphone]
+github = "davy7125/polyphone"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[portmidi]
+github = "PortMidi/portmidi"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[postfish]
+gitlab = "https://gitlab.xiph.org/xiph/postfish"
+source = "gitlab"
+unver = true
+
+[powertabeditor]
+gdaw = "powertab"
+github = "powertab/powertabeditor"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[prototracker]
+github = "kometbomb/prototracker"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[prototracker-modular]
+github = "kometbomb/prototracker-modular"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[prototracker-opll]
+github = "kometbomb/prototracker-opll"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[pt2-clone]
+github = "8bitbubsy/pt2-clone"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[pyliblo]
+github = "dsacre/pyliblo"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[python-mido]
+github = "mido/mido"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[qKontrol]
+github = "GoaSkin/qKontrol"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[qm-dsp]
+github = "c4dm/qm-dsp"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[qmidiarp]
+github = "emuse/qmidiarp"
+prefix = "qmidiarp-"
+source = "github"
+use_max_tag = true
+
+[qpwgraph]
+gitlab = "https://gitlab.freedesktop.org/rncbc/qpwgraph"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[qwinff]
+github = "qwinff/qwinff"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[rakarrack-plus]
+github = "Stazed/rakarrack-plus"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[realtimeconfigquickscan]
+github = "raboof/realtimeconfigquickscan"
+source = "github"
+unver = true
+
+[regrader]
+gdaw = "vst3-regrader"
+github = "igorski/regrader"
+source = "github"
+unver = true
+
+[rezonateur]
+github = "jpcima/rezonateur"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[ripchord]
+github = "trackbout/ripchord"
+source = "github"
+unver = true
+
+[rotor]
+github = "blackboxdsp/rotor"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[samplecat]
+github = "ayyi/samplecat"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[scarlett-mixer]
+github = "x42/scarlett-mixer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[schismtracker]
+github = "schismtracker/schismtracker"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[sequencer64]
+github = "ahlstromcj/sequencer64"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[setBfree]
+github = "pantherb/setBfree"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[sfizz]
+github = "sfztools/sfizz"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[signet]
+github = "SamWindell/Signet"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[slPlugins]
+gdaw = "SocaLabs-plugins"
+github = "FigBug/slPlugins"
+source = "github"
+unver = true
+
+[sonic-pi]
+github = "sonic-pi-net/sonic-pi"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[sonic-visualiser]
+github = "sonic-visualiser/sonic-visualiser"
+prefix = "sv_v"
+source = "github"
+use_max_tag = true
+
+[sonobus]
+github = "sonosaurus/sonobus"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[sooperlooper]
+github = "essej/sooperlooper"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[sooperlooper-lv2-plugin]
+gdaw = "lv2-sooperlooper"
+github = "moddevices/sooperlooper-lv2-plugin"
+source = "github"
+unver = true
+
+[sound-gambit]
+github = "x42/sound-gambit"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[soundtouch]
+gitea = "https://codeberg.org/soundtouch/soundtouch"
+prefix = ""
+source = "gitea"
+
+[spectacle]
+github = "jpcima/spectacle"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[spectmorph]
+github = "swesterfeld/spectmorph"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[spiceAmp]
+github = "olegkapitonov/spiceAmp"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[stargate]
+github = "stargateaudio/stargate"
+prefix = "release-"
+source = "github"
+use_max_tag = true
+
+[stereog]
+gdaw = "lv2-stereog"
+github = "ecashin/stereog"
+source = "github"
+unver = true
+
+[stochas]
+github = "surge-synthesizer/stochas"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[string-machine]
+github = "jpcima/string-machine"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[studio-controls]
+github = "ovenwerks/studio-controls"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[tamgamp-lv2]
+gdaw = "lv2-tamgamp"
+github = "sadko4u/tamgamp.lv2"
+source = "github"
+unver = true
+
+[tap-lv2]
+gdaw = "lv2-tap"
+github = "moddevices/tap-lv2"
+source = "github"
+unver = true
+
+[transformant]
+gdaw = "vst3-transformant"
+github = "igorski/transformant"
+source = "github"
+unver = true
+
+[tubeAmp-Designer]
+github = "olegkapitonov/tubeAmp-Designer"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[vamp-plugin-sdk]
+github = "c4dm/vamp-plugin-sdk"
+prefix = "vamp-plugin-sdk-v"
+source = "github"
+use_max_tag = true
+
+[vst3-Uhhyou-Plugins]
+github = "ryukau/VSTPlugins"
+source = "github"
+unver = true
+
+[wahjam]
+github = "wahjam/wahjam"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[wildmidi]
+github = "Mindwerks/wildmidi"
+prefix = "wildmidi-"
+source = "github"
+use_max_tag = true
+
+[wolf-shaper]
+github = "wolf-plugins/wolf-shaper"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[x42-plugins]
+github = "x42/x42-plugins"
+source = "github"
+unver = true
+
+[yabridge]
+github = "robbert-vdh/yabridge"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[yabridget]
+gitlab = "fpesari/yabridget"
+prefix = ""
+source = "gitlab"
+use_max_tag = true
+
+[ykchorus]
+github = "SpotlightKid/ykchorus"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[yoshimi]
+github = "Yoshimi/yoshimi"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[ysfx]
+github = "jpcima/ysfx"
+source = "github"
+unver = true
+
+[zam-plugins]
+github = "zamaudio/zam-plugins"
+prefix = ""
+source = "github"
+use_max_tag = true
+
+[zynaddsubfx]
+github = "zynaddsubfx/zynaddsubfx"
+prefix = ""
+source = "github"
+use_max_tag = true

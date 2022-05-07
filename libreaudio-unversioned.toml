@@ -1,0 +1,204 @@
+[6pm]
+github = "michelvergnaud/6PM"
+source = "github"
+
+[ComplexNonlinearities]
+github = "jatinchowdhury18/ComplexNonlinearities"
+source = "github"
+
+[DelayArchitect]
+github = "jpcima/DelayArchitect"
+source = "github"
+
+[EarthEcho]
+github = "JimmyKenMerchant/EarthEcho"
+source = "github"
+
+[HarmonicExciter]
+gdaw = "lv2-HarmonicExciter"
+github = "brummer10/HarmonicExciter"
+source = "github"
+
+[NEL-19]
+github = "Mrugalla/NEL-19"
+source = "github"
+
+[PAPU]
+github = "FigBug/PAPU"
+source = "github"
+
+[PLEBTracker]
+github = "danfrz/PLEBTracker"
+source = "github"
+
+[PLEBtracker]
+github = "danfrz/PLEBTracker"
+source = "github"
+
+[Pigiron]
+github = "plewto/Pigiron"
+source = "github"
+
+[RP2A03]
+github = "FigBug/RP2A03"
+source = "github"
+
+[Rumor]
+github = "brummer10/Rumor"
+source = "github"
+
+[SID]
+github = "FigBug/SID"
+source = "github"
+
+[SN76489]
+github = "FigBug/SN76489"
+source = "github"
+
+[SwankyAmp]
+github = "resonantdsp/SwankyAmp"
+source = "github"
+
+[Temperament]
+github = "timcsy/Temperament"
+source = "github"
+
+[Voc]
+github = "FigBug/Voc"
+source = "github"
+
+[Wavetable]
+github = "FigBug/Wavetable"
+source = "github"
+
+[b-step]
+github = "surge-synthesizer/b-step"
+source = "github"
+
+[bitcrusher-lv2]
+gdaw = "lv2-bitcrusher"
+github = "krig/bitcrusher.lv2"
+source = "github"
+
+[caps-lv2]
+gdaw = "lv2-caps"
+github = "moddevices/caps-lv2"
+source = "github"
+
+[dm-GrainDelay]
+github = "davemollen/dm-GrainDelay"
+source = "github"
+
+[emutrix]
+github = "linuxmao-org/emutrix"
+source = "github"
+
+[fogpad]
+gdaw = "vst3-fogpad"
+github = "igorski/fogpad"
+source = "github"
+
+[jack-smf-utils]
+github = "zynthian/jack-smf-utils"
+source = "github"
+
+[joy2jack]
+github = "hauspie/joy2jack"
+source = "github"
+
+[klick]
+github = "dsacre/klick"
+source = "github"
+
+[libresample]
+github = "minorninth/libresample"
+source = "github"
+
+[lv2-Uhhyou-Plugins]
+github = "ryukau/LV2Plugins"
+source = "github"
+
+[mididings]
+github = "noedigcode/mididings"
+source = "github"
+
+[midisheetmusic]
+github = "wang1ang/midisheetmusic"
+source = "github"
+
+[minaton]
+gdaw = "lv2-minaton"
+github = "thunderox/Minaton"
+source = "github"
+
+[mod-arpeggiator-lv2]
+gdaw = "lv2-mod-arpeggiator"
+github = "moddevices/mod-arpeggiator-lv2"
+source = "github"
+
+[monique-monosynth]
+github = "surge-synthesizer/monique-monosynth"
+source = "github"
+
+[osxmidi]
+github = "osxmidi/SFZero-X"
+source = "github"
+
+[postfish]
+gitlab = "https://gitlab.xiph.org/xiph/postfish"
+source = "gitlab"
+
+[realtimeconfigquickscan]
+github = "raboof/realtimeconfigquickscan"
+source = "github"
+
+[regrader]
+gdaw = "vst3-regrader"
+github = "igorski/regrader"
+source = "github"
+
+[ripchord]
+github = "trackbout/ripchord"
+source = "github"
+
+[slPlugins]
+gdaw = "SocaLabs-plugins"
+github = "FigBug/slPlugins"
+source = "github"
+
+[sooperlooper-lv2-plugin]
+gdaw = "lv2-sooperlooper"
+github = "moddevices/sooperlooper-lv2-plugin"
+source = "github"
+
+[stereog]
+gdaw = "lv2-stereog"
+github = "ecashin/stereog"
+source = "github"
+
+[tamgamp-lv2]
+gdaw = "lv2-tamgamp"
+github = "sadko4u/tamgamp.lv2"
+source = "github"
+
+[tap-lv2]
+gdaw = "lv2-tap"
+github = "moddevices/tap-lv2"
+source = "github"
+
+[transformant]
+gdaw = "vst3-transformant"
+github = "igorski/transformant"
+source = "github"
+
+[vst3-Uhhyou-Plugins]
+github = "ryukau/VSTPlugins"
+source = "github"
+
+[x42-plugins]
+github = "x42/x42-plugins"
+source = "github"
+
+[ysfx]
+github = "jpcima/ysfx"
+source = "github"
