@@ -2,6 +2,7 @@
 
 # SPDX-License-Identifier: CC0-1.0
 
+require 'opml-parser'
 require 'toml'
 
 N = 'libreaudio.toml'
@@ -35,4 +36,29 @@ task :lint do
     end
   end.sort.to_h
   puts TOML::Generator.new(db).body
+end
+
+task :opml do
+  include OpmlParser
+  OpmlParser::Outline.new
+  db = TOML.load F
+  feeds = db.reduce([]) do |a, (_k, v)|
+    if v.key? 'github'
+      a << { xmlUrl:
+             File.join('https://github.com', v['github'], 'tags.atom') }
+    elsif v.key? 'gitlab'
+      url = if v['gitlab'].start_with?('http')
+              v['gitlab']
+            else
+              File.join 'https://gitlab.com', v['gitlab']
+            end
+      a << { xmlUrl: File.join(url, '/-/tags?format=atom') }
+    end
+    a
+  end
+  outlines = feeds.map { OpmlParser::Outline.new _1 }
+  opml = OpmlParser.export outlines, 'Tags'
+  f = File.open 'subscriptions.xml', 'w'
+  f.write(opml)
+  f.close
 end
