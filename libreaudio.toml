@@ -1378,6 +1378,12 @@ prefix = ""
 source = "github"
 use_max_tag = true
 
+[seq66]
+github = "ahlstromcj/seq66"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [sequencer64]
 github = "ahlstromcj/sequencer64"
 prefix = ""
