@@ -1515,6 +1515,12 @@ github = "moddevices/tap-lv2"
 source = "github"
 unver = true
 
+[three-osc]
+github = "Madadog/three_osc"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
 [transformant]
 gdaw = "vst3-transformant"
 github = "igorski/transformant"
@@ -1552,6 +1558,12 @@ use_max_tag = true
 
 [wolf-shaper]
 github = "wolf-plugins/wolf-shaper"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[wolf-spectrum]
+github = "wolf-plugins/wolf-spectrum"
 prefix = "v"
 source = "github"
 use_max_tag = true
