@@ -148,6 +148,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[CheeseCutter]
+github = "theyamo/CheeseCutter"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
 [ChowKick]
 github = "Chowdhury-DSP/ChowKick"
 prefix = "v"
@@ -249,6 +255,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[Fugio]
+github = "bigfug/Fugio"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
 [Geonkick]
 gitlab = "iurie-sw/geonkick"
 prefix = "v"
@@ -339,9 +351,10 @@ use_max_tag = true
 
 [MDA-lv2]
 gdaw = "lv2-mda"
-regex = ""
-source = "regex"
-url = "https://drobilla.net/category/mdalv2/"
+gitlab = "drobilla/mda-lv2"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
 
 [MIDIVisualizer]
 github = "kosua20/MIDIVisualizer"
@@ -424,6 +437,12 @@ unver = true
 
 [OB-Xd]
 github = "reales/OB-Xd"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[OS-251]
+github = "utokusa/OS-251"
 prefix = "v"
 source = "github"
 use_max_tag = true
@@ -732,9 +751,16 @@ source = "github"
 unver = true
 
 [blop-lv2]
-regex = ""
-source = "regex"
-url = "http://drobilla.net/software/blop-lv2.html"
+gitlab = "drobilla/blop-lv2"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
+[bmc]
+github = "mlang/bmc"
+prefix = "v"
+source = "github"
+use_max_tag = true
 
 [broscoli]
 github = "holoplot/broscoli"
@@ -763,6 +789,12 @@ unver = true
 
 [dexed]
 github = "asb2m10/dexed"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[deteriorate-lv2]
+github = "blablack/deteriorate-lv2"
 prefix = "v"
 source = "github"
 use_max_tag = true
@@ -801,11 +833,6 @@ prefix = ""
 source = "github"
 use_max_tag = true
 
-[ffado]
-prefix = ""
-source = "regex"
-url = "http://www.ffado.org/files/"
-
 [fluidsynth]
 github = "FluidSynth/fluidsynth"
 prefix = "v"
@@ -817,6 +844,12 @@ gdaw = "vst3-fogpad"
 github = "igorski/fogpad"
 source = "github"
 unver = true
+
+[fomp]
+gitlab = "drobilla/fomp"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
 
 [foo-yc20]
 github = "sampov2/foo-yc20"
@@ -844,6 +877,12 @@ use_max_tag = true
 
 [giada]
 github = "monocasual/giada"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[gregorio]
+github = "gregorio-project/gregorio"
 prefix = "v"
 source = "github"
 use_max_tag = true
@@ -961,6 +1000,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[kunquat]
+github = "kunquat/kunquat"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [libfreeaptx]
 github = "iamthehorker/libfreeaptx"
 prefix = ""
@@ -1067,6 +1112,12 @@ use_max_tag = true
 github = "swh/lv2"
 prefix = "v"
 source = "github"
+use_max_tag = true
+
+[lv2lint]
+gitlab = "drobilla/lv2lint"
+prefix = ""
+source = "gitlab"
 use_max_tag = true
 
 [lvtk]
@@ -1200,6 +1251,12 @@ github = "osxmidi/SFZero-X"
 source = "github"
 unver = true
 
+[patchage]
+gitlab = "drobilla/patchage"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
+
 [pd2jack]
 github = "GModal/pd2jack"
 prefix = "v"
@@ -1326,6 +1383,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[radium]
+github = "kmatheussen/radium"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [rakarrack-plus]
 github = "Stazed/rakarrack-plus"
 prefix = ""
@@ -1345,6 +1408,12 @@ unver = true
 
 [rezonateur]
 github = "jpcima/rezonateur"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[rezound]
+github = "ddurham2/rezound"
 prefix = "v"
 source = "github"
 use_max_tag = true
@@ -1388,6 +1457,12 @@ use_max_tag = true
 github = "ahlstromcj/sequencer64"
 prefix = ""
 source = "github"
+use_max_tag = true
+
+[serd]
+gitlab = "drobilla/serd"
+prefix = "v"
+source = "gitlab"
 use_max_tag = true
 
 [setBfree]
@@ -1443,6 +1518,12 @@ gdaw = "lv2-sooperlooper"
 github = "moddevices/sooperlooper-lv2-plugin"
 source = "github"
 unver = true
+
+[sord]
+gitlab = "drobilla/sord"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
 
 [sound-gambit]
 github = "x42/sound-gambit"
@@ -1536,6 +1617,12 @@ use_max_tag = true
 [vamp-plugin-sdk]
 github = "c4dm/vamp-plugin-sdk"
 prefix = "vamp-plugin-sdk-v"
+source = "github"
+use_max_tag = true
+
+[vht]
+github = "rdybka/vht"
+prefix = ""
 source = "github"
 use_max_tag = true
 
