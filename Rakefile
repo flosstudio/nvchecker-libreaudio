@@ -57,7 +57,7 @@ task :opml do
     a
   end
   outlines = feeds.map { OpmlParser::Outline.new _1 }
-  opml = OpmlParser.export outlines, 'Tags'
+  opml = OpmlParser.export outlines, 'LibreAudio Tags'
   f = File.open 'subscriptions.xml', 'w'
   f.write(opml)
   f.close
