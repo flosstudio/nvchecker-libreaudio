@@ -110,6 +110,10 @@ gdaw = "vst3-fogpad"
 github = "igorski/fogpad"
 source = "github"
 
+[ingen]
+gitlab = "drobilla/ingen"
+source = "gitlab"
+
 [jack-smf-utils]
 github = "zynthian/jack-smf-utils"
 source = "github"
@@ -133,6 +137,10 @@ source = "github"
 [lv2-Uhhyou-Plugins]
 github = "ryukau/LV2Plugins"
 source = "github"
+
+[machina]
+gitlab = "drobilla/machina"
+source = "gitlab"
 
 [mididings]
 github = "noedigcode/mididings"
@@ -172,6 +180,10 @@ source = "github"
 gdaw = "vst3-regrader"
 github = "igorski/regrader"
 source = "github"
+
+[raul]
+gitlab = "drobilla/raul"
+source = "gitlab"
 
 [ripchord]
 github = "trackbout/ripchord"
