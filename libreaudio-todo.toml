@@ -71,10 +71,30 @@ regex = ""
 source = "regex"
 url = "https://sourceforge.net/projects/eq10q/files/"
 
+[LoopAuditioner]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/loopauditioneer/files/"
+
+[Newtonator]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/newtonator/files/"
+
+[QSox]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/qsox/files/"
+
 [Rosegarden]
 regex = ""
 source = "regex"
 url = "https://sourceforge.net/projects/rosegarden/files/rosegarden/"
+
+[SoundHelix]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/soundhelix/files/"
 
 [TuxGuitar]
 regex = ""
@@ -86,10 +106,20 @@ regex = ""
 source = "regex"
 url = "https://sourceforge.net/projects/aj-snapshot/files/"
 
+[azr3-jack]
+regex = ""
+source = "regex"
+url = "https://download.savannah.nongnu.org/releases/ll-plugins/"
+
 [drumstick]
 regex = ""
 source = "regex"
 url = "https://sourceforge.net/projects/drumstick/files/"
+
+[goattracker2]
+regex = ""
+source = "regex"
+url = "https://sourceforge.net/projects/goattracker2/files/GoatTracker%202/"
 
 [kmetronome]
 regex = ""
