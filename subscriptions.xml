@@ -29,6 +29,7 @@
     <outline xmlUrl="https://github.com/pierreguillot/Camomile/tags.atom"/>
     <outline xmlUrl="https://github.com/falkTX/Carla/tags.atom"/>
     <outline xmlUrl="https://github.com/jd-13/Carve-Distortion/tags.atom"/>
+    <outline xmlUrl="https://github.com/theyamo/CheeseCutter/tags.atom"/>
     <outline xmlUrl="https://github.com/Chowdhury-DSP/ChowKick/tags.atom"/>
     <outline xmlUrl="https://github.com/Chowdhury-DSP/ChowMatrix/tags.atom"/>
     <outline xmlUrl="https://github.com/jatinchowdhury18/ChowPhaser/tags.atom"/>
@@ -46,6 +47,7 @@
     <outline xmlUrl="https://github.com/jerryuhoo/Fire/tags.atom"/>
     <outline xmlUrl="https://github.com/ffAudio/Frequalizer/tags.atom"/>
     <outline xmlUrl="https://github.com/linuxmao-org/Frontieres/tags.atom"/>
+    <outline xmlUrl="https://github.com/bigfug/Fugio/tags.atom"/>
     <outline xmlUrl="https://gitlab.com/iurie-sw/geonkick/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/GrandOrgue/grandorgue/tags.atom"/>
     <outline xmlUrl="https://github.com/brummer10/GxPlugins.lv2/tags.atom"/>
@@ -60,6 +62,7 @@
     <outline xmlUrl="https://invent.kde.org/multimedia/kwave/-/tags?format=atom"/>
     <outline xmlUrl="https://gitlab.com/LibreArp/LibreArp/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/brummer10/LittleFly.lv2/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/mda-lv2/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/kosua20/MIDIVisualizer/tags.atom"/>
     <outline xmlUrl="https://github.com/jd-13/MONSTR-Stereo-Imaging/tags.atom"/>
     <outline xmlUrl="https://github.com/yokemura/Magical8bitPlug2/tags.atom"/>
@@ -74,6 +77,7 @@
     <outline xmlUrl="https://github.com/figbug/mverb/tags.atom"/>
     <outline xmlUrl="https://github.com/Mrugalla/NEL-19/tags.atom"/>
     <outline xmlUrl="https://github.com/reales/OB-Xd/tags.atom"/>
+    <outline xmlUrl="https://github.com/utokusa/OS-251/tags.atom"/>
     <outline xmlUrl="https://github.com/greatest-ape/OctaSine/tags.atom"/>
     <outline xmlUrl="https://gitlab.com/openlp/openlp/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/FigBug/PAPU/tags.atom"/>
@@ -124,11 +128,14 @@
     <outline xmlUrl="https://github.com/BambooTracker/BambooTracker/tags.atom"/>
     <outline xmlUrl="https://github.com/Princeton-CDH/bitKlavier/tags.atom"/>
     <outline xmlUrl="https://github.com/krig/bitcrusher.lv2/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/blop-lv2/-/tags?format=atom"/>
+    <outline xmlUrl="https://github.com/mlang/bmc/tags.atom"/>
     <outline xmlUrl="https://github.com/holoplot/broscoli/tags.atom"/>
     <outline xmlUrl="https://github.com/nilninull/bs2b-lv2/tags.atom"/>
     <outline xmlUrl="https://github.com/calf-studio-gear/calf/tags.atom"/>
     <outline xmlUrl="https://github.com/moddevices/caps-lv2/tags.atom"/>
     <outline xmlUrl="https://github.com/asb2m10/dexed/tags.atom"/>
+    <outline xmlUrl="https://github.com/blablack/deteriorate-lv2/tags.atom"/>
     <outline xmlUrl="https://github.com/davemollen/dm-GrainDelay/tags.atom"/>
     <outline xmlUrl="https://github.com/michaelwillis/dragonfly-reverb/tags.atom"/>
     <outline xmlUrl="https://github.com/clearly-broken-software/drops/tags.atom"/>
@@ -137,11 +144,13 @@
     <outline xmlUrl="https://github.com/grame-cncm/faust/tags.atom"/>
     <outline xmlUrl="https://github.com/FluidSynth/fluidsynth/tags.atom"/>
     <outline xmlUrl="https://github.com/igorski/fogpad/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/fomp/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/sampov2/foo-yc20/tags.atom"/>
     <outline xmlUrl="https://github.com/free-wheeling/freewheeling/tags.atom"/>
     <outline xmlUrl="https://github.com/frescobaldi/frescobaldi/tags.atom"/>
     <outline xmlUrl="https://github.com/tildearrow/furnace/tags.atom"/>
     <outline xmlUrl="https://github.com/monocasual/giada/tags.atom"/>
+    <outline xmlUrl="https://github.com/gregorio-project/gregorio/tags.atom"/>
     <outline xmlUrl="https://github.com/gsequencer/gsequencer/tags.atom"/>
     <outline xmlUrl="https://github.com/brummer10/guitarix/tags.atom"/>
     <outline xmlUrl="https://github.com/rafalcieslak/harmonySEQ/tags.atom"/>
@@ -161,6 +170,7 @@
     <outline xmlUrl="https://github.com/dsacre/klick/tags.atom"/>
     <outline xmlUrl="https://github.com/kometbomb/klystrack/tags.atom"/>
     <outline xmlUrl="https://github.com/noedigcode/konfyt/tags.atom"/>
+    <outline xmlUrl="https://github.com/kunquat/kunquat/tags.atom"/>
     <outline xmlUrl="https://github.com/iamthehorker/libfreeaptx/tags.atom"/>
     <outline xmlUrl="https://github.com/mixxxdj/libkeyfinder/tags.atom"/>
     <outline xmlUrl="https://github.com/sadko4u/lsp-dsp-lib/tags.atom"/>
@@ -179,6 +189,7 @@
     <outline xmlUrl="https://github.com/ryukau/LV2Plugins/tags.atom"/>
     <outline xmlUrl="https://github.com/lucianodato/noise-repellent/tags.atom"/>
     <outline xmlUrl="https://github.com/swh/lv2/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/lv2lint/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/lvtk/lvtk/tags.atom"/>
     <outline xmlUrl="https://github.com/marsyas/marsyas/tags.atom"/>
     <outline xmlUrl="https://github.com/noedigcode/mididings/tags.atom"/>
@@ -201,6 +212,7 @@
     <outline xmlUrl="https://github.com/openAVproductions/openAV-Sorcer/tags.atom"/>
     <outline xmlUrl="https://github.com/ossia/score/tags.atom"/>
     <outline xmlUrl="https://github.com/osxmidi/SFZero-X/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/patchage/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/GModal/pd2jack/tags.atom"/>
     <outline xmlUrl="https://github.com/williamweston/phasex/tags.atom"/>
     <outline xmlUrl="https://github.com/portaloffreedom/pipecontrol/tags.atom"/>
@@ -222,16 +234,20 @@
     <outline xmlUrl="https://github.com/emuse/qmidiarp/tags.atom"/>
     <outline xmlUrl="https://gitlab.freedesktop.org/rncbc/qpwgraph/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/qwinff/qwinff/tags.atom"/>
+    <outline xmlUrl="https://github.com/kmatheussen/radium/tags.atom"/>
     <outline xmlUrl="https://github.com/Stazed/rakarrack-plus/tags.atom"/>
     <outline xmlUrl="https://github.com/raboof/realtimeconfigquickscan/tags.atom"/>
     <outline xmlUrl="https://github.com/igorski/regrader/tags.atom"/>
     <outline xmlUrl="https://github.com/jpcima/rezonateur/tags.atom"/>
+    <outline xmlUrl="https://github.com/ddurham2/rezound/tags.atom"/>
     <outline xmlUrl="https://github.com/trackbout/ripchord/tags.atom"/>
     <outline xmlUrl="https://github.com/blackboxdsp/rotor/tags.atom"/>
     <outline xmlUrl="https://github.com/ayyi/samplecat/tags.atom"/>
     <outline xmlUrl="https://github.com/x42/scarlett-mixer/tags.atom"/>
     <outline xmlUrl="https://github.com/schismtracker/schismtracker/tags.atom"/>
+    <outline xmlUrl="https://github.com/ahlstromcj/seq66/tags.atom"/>
     <outline xmlUrl="https://github.com/ahlstromcj/sequencer64/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/serd/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/pantherb/setBfree/tags.atom"/>
     <outline xmlUrl="https://github.com/sfztools/sfizz/tags.atom"/>
     <outline xmlUrl="https://github.com/SamWindell/Signet/tags.atom"/>
@@ -241,6 +257,7 @@
     <outline xmlUrl="https://github.com/sonosaurus/sonobus/tags.atom"/>
     <outline xmlUrl="https://github.com/essej/sooperlooper/tags.atom"/>
     <outline xmlUrl="https://github.com/moddevices/sooperlooper-lv2-plugin/tags.atom"/>
+    <outline xmlUrl="https://gitlab.com/drobilla/sord/-/tags?format=atom"/>
     <outline xmlUrl="https://github.com/x42/sound-gambit/tags.atom"/>
     <outline xmlUrl="https://github.com/jpcima/spectacle/tags.atom"/>
     <outline xmlUrl="https://github.com/swesterfeld/spectmorph/tags.atom"/>
@@ -252,13 +269,16 @@
     <outline xmlUrl="https://github.com/ovenwerks/studio-controls/tags.atom"/>
     <outline xmlUrl="https://github.com/sadko4u/tamgamp.lv2/tags.atom"/>
     <outline xmlUrl="https://github.com/moddevices/tap-lv2/tags.atom"/>
+    <outline xmlUrl="https://github.com/Madadog/three_osc/tags.atom"/>
     <outline xmlUrl="https://github.com/igorski/transformant/tags.atom"/>
     <outline xmlUrl="https://github.com/olegkapitonov/tubeAmp-Designer/tags.atom"/>
     <outline xmlUrl="https://github.com/c4dm/vamp-plugin-sdk/tags.atom"/>
+    <outline xmlUrl="https://github.com/rdybka/vht/tags.atom"/>
     <outline xmlUrl="https://github.com/ryukau/VSTPlugins/tags.atom"/>
     <outline xmlUrl="https://github.com/wahjam/wahjam/tags.atom"/>
     <outline xmlUrl="https://github.com/Mindwerks/wildmidi/tags.atom"/>
     <outline xmlUrl="https://github.com/wolf-plugins/wolf-shaper/tags.atom"/>
+    <outline xmlUrl="https://github.com/wolf-plugins/wolf-spectrum/tags.atom"/>
     <outline xmlUrl="https://github.com/x42/x42-plugins/tags.atom"/>
     <outline xmlUrl="https://github.com/robbert-vdh/yabridge/tags.atom"/>
     <outline xmlUrl="https://gitlab.com/fpesari/yabridget/-/tags?format=atom"/>
