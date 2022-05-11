@@ -31,12 +31,12 @@ source = "github"
 github = "danfrz/PLEBTracker"
 source = "github"
 
-[PLEBtracker]
-github = "danfrz/PLEBTracker"
-source = "github"
-
 [Pigiron]
 github = "plewto/Pigiron"
+source = "github"
+
+[Q]
+github = "cycfi/Q"
 source = "github"
 
 [RP2A03]
@@ -67,12 +67,20 @@ source = "github"
 github = "FigBug/Voc"
 source = "github"
 
+[VocProc]
+github = "Stazed/vocproc"
+source = "github"
+
 [Wavetable]
 github = "FigBug/Wavetable"
 source = "github"
 
 [b-step]
 github = "surge-synthesizer/b-step"
+source = "github"
+
+[bintracker]
+github = "bintracker/bintracker"
 source = "github"
 
 [bitcrusher-lv2]
@@ -89,6 +97,10 @@ source = "github"
 github = "davemollen/dm-GrainDelay"
 source = "github"
 
+[drmr]
+github = "nicklan/drmr"
+source = "github"
+
 [emutrix]
 github = "linuxmao-org/emutrix"
 source = "github"
@@ -100,6 +112,10 @@ source = "github"
 
 [jack-smf-utils]
 github = "zynthian/jack-smf-utils"
+source = "github"
+
+[jamrtc]
+github = "lminiero/jamrtc"
 source = "github"
 
 [joy2jack]
