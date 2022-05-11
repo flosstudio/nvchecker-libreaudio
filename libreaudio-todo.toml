@@ -106,11 +106,6 @@ regex = ""
 source = "regex"
 url = "https://sourceforge.net/projects/aj-snapshot/files/"
 
-[azr3-jack]
-regex = ""
-source = "regex"
-url = "https://download.savannah.nongnu.org/releases/ll-plugins/"
-
 [drumstick]
 regex = ""
 source = "regex"
@@ -222,25 +217,10 @@ url = "https://open-music-kontrollers.ch/lv2/moony/"
 
 ## drobilla.net
 
-[Patchage]
-regex = ""
-source = "regex"
-url = "https://drobilla.net/category/patchage/"
-
 [lilv]
 regex = ""
 source = "regex"
 url = "https://drobilla.net/category/lilv/"
-
-[serd]
-regex = ""
-source = "regex"
-url = "http://drobilla.net/category/serd/"
-
-[sord]
-regex = ""
-source = "regex"
-url = "http://drobilla.net/category/sord/"
 
 [sratom]
 regex = ""
@@ -299,6 +279,11 @@ url = "https://download.savannah.gnu.org/releases/tutka/"
 regex = ""
 source = "regex"
 url = "https://www.laborejo.org/downloads/"
+
+[azr3-jack]
+regex = ""
+source = "regex"
+url = "https://download.savannah.nongnu.org/releases/ll-plugins/"
 
 [ccaudio]
 gdaw = "ccaudio2"
