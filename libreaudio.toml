@@ -280,6 +280,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[HISE]
+github = "christophhart/HISE"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [HarmonicExciter]
 gdaw = "lv2-HarmonicExciter"
 github = "brummer10/HarmonicExciter"
