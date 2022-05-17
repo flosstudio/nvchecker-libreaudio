@@ -292,6 +292,12 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
+[JJazzLab-X]
+github = "jjazzboss/JJazzLab-X"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [JUCE]
 github = "juce-framework/JUCE"
 prefix = ""
@@ -927,6 +933,18 @@ use_max_tag = true
 gitlab = "https://gitlab.freedesktop.org/pipewire/helvum"
 prefix = ""
 source = "gitlab"
+use_max_tag = true
+
+[hpsjam]
+github = "hselasky/hpsjam"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
+[hvcc]
+github = "Wasted-Audio/hvcc"
+prefix = "v"
+source = "github"
 use_max_tag = true
 
 [hydrogen]
