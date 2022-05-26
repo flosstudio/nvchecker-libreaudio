@@ -6,6 +6,10 @@ source = "github"
 github = "jatinchowdhury18/ComplexNonlinearities"
 source = "github"
 
+[BitWizzard]
+github = "jpcima/BitWizzard"
+source = "github"
+
 [DelayArchitect]
 github = "jpcima/DelayArchitect"
 source = "github"
@@ -17,6 +21,10 @@ source = "github"
 [HarmonicExciter]
 gdaw = "lv2-HarmonicExciter"
 github = "brummer10/HarmonicExciter"
+source = "github"
+
+[Livecut-LV2]
+github = "eventual-recluse/Livecut-LV2"
 source = "github"
 
 [NEL-19]
@@ -142,6 +150,10 @@ source = "github"
 gitlab = "drobilla/machina"
 source = "gitlab"
 
+[master-me]
+github = "trummerschlunk/master_me"
+source = "github"
+
 [mididings]
 github = "noedigcode/mididings"
 source = "github"
@@ -164,6 +176,10 @@ source = "github"
 github = "surge-synthesizer/monique-monosynth"
 source = "github"
 
+[snhirsch/mustang-midi-bridge]
+github = "snhirsch/mustang-midi-bridge"
+source = "github"
+
 [osxmidi]
 github = "osxmidi/SFZero-X"
 source = "github"
@@ -171,6 +187,10 @@ source = "github"
 [postfish]
 gitlab = "https://gitlab.xiph.org/xiph/postfish"
 source = "gitlab"
+
+[protoplug-free]
+github = "pluginguru/protoplug-free"
+source = "github"
 
 [realtimeconfigquickscan]
 github = "raboof/realtimeconfigquickscan"
@@ -187,6 +207,10 @@ source = "gitlab"
 
 [ripchord]
 github = "trackbout/ripchord"
+source = "github"
+
+[sassy]
+github = "jarikomppa/sassy"
 source = "github"
 
 [slPlugins]
