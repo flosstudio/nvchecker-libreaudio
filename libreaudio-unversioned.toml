@@ -118,6 +118,11 @@ gdaw = "vst3-fogpad"
 github = "igorski/fogpad"
 source = "github"
 
+[gula-plugins]
+gdaw = "lv2-gula"
+github = "steveb/gula-plugins"
+source = "github"
+
 [ingen]
 gitlab = "drobilla/ingen"
 source = "gitlab"
