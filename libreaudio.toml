@@ -1173,10 +1173,11 @@ prefix = "v"
 source = "github"
 use_max_tag = true
 
-[midisheetmusic]
-github = "wang1ang/midisheetmusic"
-source = "github"
-unver = true
+[miditools]
+gitlab = "peterbillam/miditools"
+prefix = "v"
+source = "gitlab"
+use_max_tag = true
 
 [milkytracker]
 github = "milkytracker/MilkyTracker"
