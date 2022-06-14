@@ -655,6 +655,12 @@ prefix = "v"
 source = "gitlab"
 use_max_tag = true
 
+[VibeComposter]
+github = "VibeHistorian/VibeComposer"
+prefix = "v"
+source = "github"
+use_max_tag = true
+
 [Voc]
 github = "FigBug/Voc"
 source = "github"
