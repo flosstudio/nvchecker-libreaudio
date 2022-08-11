@@ -1036,6 +1036,12 @@ prefix = ""
 source = "github"
 use_max_tag = true
 
+[lessampler]
+github = "YuzukiTsuru/lessampler"
+prefix = ""
+source = "github"
+use_max_tag = true
+
 [libfreeaptx]
 github = "iamthehorker/libfreeaptx"
 prefix = ""
